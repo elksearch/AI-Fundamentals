@@ -1,7 +1,5 @@
 # 🤖 AI Knowledge Repository
 
-Personal AI learning notes built from IBM Technology AI Fundamentals playlist and hands-on Q&A sessions.
-
 Started from absolute zero — no prior AI/ML knowledge.
 
 ---
