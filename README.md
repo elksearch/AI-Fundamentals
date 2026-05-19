@@ -111,9 +111,7 @@ General reasoning    → Larger general model
 - [x] 06 — MCP, gRPC, API Protocols
 - [x] 07 — AI Stack, LangChain, Orchestration
 - [x] 08 — AI Terminology Quick Reference
-- [ ] AI Academy playlist (in progress)
-- [ ] AI Technical Tutorials playlist
-- [ ] AI Agents Explained playlist
+
 
 ---
 
